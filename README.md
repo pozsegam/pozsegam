@@ -1,3 +1,3 @@
 # :technologist: Pozsgai Máté
 
-** Frontend Magician **
+**`Frontend Magician`**
