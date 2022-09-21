@@ -1,6 +1,6 @@
-# Hello there :wave:
-## My name is Máté :technologist:
+# Hello there :wave: :technologist:
+
+My name is Máté and I am currently working full-time as a Frontend-developer in Hungary. :hungary:
 
 **`Frontend Magician`**
 
-Currently working full-time as a Frontend-developer in Hungary. :hungary:
